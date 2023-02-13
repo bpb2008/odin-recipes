@@ -4,12 +4,29 @@ img {
 }
 
 h1 {
-    margin-top: 300px;
-    background-color: green;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: #08a4cf;
+    color:#ffffff;
+    padding: 10px 0 10px 0;
 }
 
-h2 {
-    color: green;
 
-}   
+
+.information {
+    background-color: #ffffff;
+    padding: 20px 20px 20px 20px;
+    
+}
+
+body {
+    background-color: #e7f5f9;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 50px 100px 50px 100px;
+}
+
+nav {
+    background-color: #ffffff;
+    text-align: justify;
+    padding: 20px 20px 20px 20px;
+}
+
