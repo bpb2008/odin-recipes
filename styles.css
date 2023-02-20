@@ -7,9 +7,10 @@ h1 {
     text-align: center;
     background-color: #08a4cf;
     color:#ffffff;
-    padding: 10px 0 10px 0;
+    padding: 20px 20px 20px 20px;
     border-color: #ffffff;
     border-style: dotted;
+    
 }
 
 
@@ -35,6 +36,8 @@ nav {
     padding: 20px 20px 20px 20px;
     border-color: #08a4cf;
     border-style: dotted;
+    display: flex;
+    justify-content: space-around;
     
 }
 
@@ -42,4 +45,16 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.link1 {
+    
+}
+
+.link2 {
+   
+}
+
+.link3 {
+    
 }
